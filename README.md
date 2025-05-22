@@ -1,6 +1,6 @@
 # Yixin Huang
 
-I am a recent graduate from UC Berkeley with a B.S. in Computer Science and a B.A. in Applied Mathematics (May 2025, GPA: 3.9). As an AI/ML Engineer and Researcher, I am passionate about advancing the field of AI, particularly in LLM evaluation, and driven to create technology that understands and enhances human experiences.
+I am a recent graduate from UC Berkeley with a B.A. in Computer Science and a B.A. in Applied Mathematics (May 2025, GPA: 3.9). As an AI/ML Engineer and Researcher, I am passionate about advancing the field of AI, particularly in LLM evaluation, and driven to create technology that understands and enhances human experiences.
 
 ## Experience
 
@@ -22,7 +22,7 @@ My primary interests lie in the fundamental challenges of training large-scale m
 ## Education
 
 *   **UC Berkeley**
-    *   B.S. Computer Science
+    *   B.A. Computer Science
     *   B.A. Applied Mathematics
     *   Graduated: May 2025
     *   GPA: 3.9
